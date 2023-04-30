@@ -17,7 +17,7 @@ Step 2 Association analysis
 -------------
 Association analysis 1 and 2 in [cross_sectional.R](https://github.com/hanluyt/modulation_emotionalBrain/blob/main/cross_sectional.R) 
 * Associations between the emotional symptoms at age 19 years and both childhood abuse and PRS<sub>MDD</sub>. 
-* Associations between the weights of the latent factors at age 19 years and both childhood abuse and PRS<sub>MDD</sub>. 
+* Associations between the weights of the latent factors at age 19 and various symptoms in the SDQ at age 19.
 
 Step 3 Modulation analysis
 -----------
